@@ -1,11 +1,16 @@
-# Hi there 👋 
-### I am [Kishan Kumar](https://drive.google.com/file/d/11I7mMLqbEQ99LODX3YIa_wcpv3zXiWao/view?usp=sharing)
+<p align=center width="100%" height="100%">
+  <img align="center" src="https://github.com/kineticdud/kineticdud.github.io/blob/92af362a7e33a872fed52a617bb92b78b05f75f7/assets/fire.gif" alt="Fire" />
+</p>
 
+# 𝐇i👋 𝐭𝐡𝐞𝐫𝐞! I am [Kishan Kumar](https://drive.google.com/file/d/11I7mMLqbEQ99LODX3YIa_wcpv3zXiWao/view?usp=sharing)
+
+
+## 🙋🏽‍♂️About Me
 - 🔭 I’m currently working on building backend systems using Java, Kotlin, Ruby
 - 🌱 I’m currently learning to architect better software systems at high-level and low-level
-- 💬 Nudge me if you want to talk about programming, travelling, music, memes, games
 - 📫 How to reach me:
-
+<!-- - 💬 Nudge me if you want to talk about programming, travelling, music, memes, games -->
+  
 <div align="center">
 <a href="mailto:iamkkumar99@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -23,6 +28,30 @@
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div> 
+
+<a href="https://github.com/kineticdud">
+    <img src="https://komarev.com/ghpvc/?username=kineticdud">
+</a>
+
+<!-- 
+## Skills
+<table>
+  <tr>
+    <div align="center" margin="50px">  
+      <img style="margin: 10px" src="https://github.com/kineticdud/kineticdud.github.io/blob/main/assets/C%2B%2B.png" alt="C++" height="50" />  
+      <img style="margin: 10px" src="https://github.com/kineticdud/kineticdud.github.io/blob/main/assets/Python.png" alt="python" height="50" />  
+      <img style="margin: 10px" src="https://github.com/kineticdud/kineticdud.github.io/blob/main/assets/React.png" alt="react" height="50" /> 
+      <img style="margin: 10px" src="https://github.com/kineticdud/kineticdud.github.io/blob/main/assets/sql-server.png" alt="sql" height="50" />  
+      <img style="margin: 10px" src="https://github.com/kineticdud/kineticdud.github.io/blob/main/assets/HTML5.png" alt="html" height="50" />  
+      <img style="margin: 10px" src="https://github.com/kineticdud/kineticdud.github.io/blob/main/assets/CSS3.png" alt="css" height="50" />  
+      <img style="margin: 10px" src="https://github.com/kineticdud/kineticdud.github.io/blob/main/assets/Docker.png" alt="docker" height="50" />  
+      <img style="margin: 10px" src="https://github.com/kineticdud/kineticdud.github.io/blob/main/assets/Ubuntu.png" alt="Linux" height="50" />  
+      <img style="margin: 10px" src="https://github.com/kineticdud/kineticdud.github.io/blob/main/assets/Git.png" alt="Git" height="50" />  
+      <img style="margin: 10px" src="https://github.com/kineticdud/kineticdud.github.io/blob/main/assets/Bash.png" alt="Bash" height="50" />  
+    </div>
+  </tr>
+</table>    
+-->
 
 ## Github Statistics
 <p align=center>
