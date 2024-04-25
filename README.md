@@ -1,5 +1,5 @@
-<p align=center width="100%" height="100%">
-  <img align="center" src="https://github.com/kineticdud/kineticdud.github.io/blob/92af362a7e33a872fed52a617bb92b78b05f75f7/assets/fire.gif" alt="Fire" />
+<p align=center>
+  <img border-radius=50% src="https://github.com/kineticdud/kineticdud.github.io/blob/92af362a7e33a872fed52a617bb92b78b05f75f7/assets/fire.gif" alt="Fire" />
 </p>
 
 # 𝐇i👋 𝐭𝐡𝐞𝐫𝐞! I am [Kishan Kumar](https://drive.google.com/file/d/11I7mMLqbEQ99LODX3YIa_wcpv3zXiWao/view?usp=sharing)
